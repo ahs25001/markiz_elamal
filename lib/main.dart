@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:markiz_elamal/core/utils/app_constants.dart';
+import 'package:markiz_elamal/core/utils/app_colors.dart';
 import 'package:markiz_elamal/features/splash_feature/presentation/splash_view.dart';
 
 void main() {
